@@ -1,0 +1,27 @@
+com/sun/jdi/AllLineLocations.java
+com/sun/jdi/ClassesByName.java
+com/sun/jdi/ExceptionEvents.java
+com/sun/jdi/FilterMatch.java
+com/sun/jdi/FilterNoMatch.java
+com/sun/jdi/LaunchCommandLine.java
+com/sun/jdi/ModificationWatchpoints.java
+com/sun/jdi/NativeInstanceFilter.java
+com/sun/jdi/UnpreparedByName.java
+com/sun/jdi/UnpreparedClasses.java
+com/sun/jdi/Vars.java
+compiler/6589834/Test_ia32.java
+gc/6941923/test6941923.sh
+java/awt/Frame/UnfocusableMaximizedFrameResizablity/UnfocusableMaximizedFrameResizablity.java
+java/awt/print/PrinterJob/ExceptionTest.java
+javax/swing/JComboBox/8032878/bug8032878.java
+javax/swing/JFrame/4962534/bug4962534.html
+javax/swing/MultiUIDefaults/4300666/bug4300666.java
+lib/testlibrary/AssertsTest.java
+lib/testlibrary/OutputAnalyzerReportingTest.java
+lib/testlibrary/OutputAnalyzerTest.java
+# hangs after u85 update
+runtime/6878713/Test6878713.sh
+runtime/8010389/VMThreadDlopen.java
+runtime/classFileParserBug/TestEmptyBootstrapMethodsAttr.java
+runtime/NMT/JcmdWithNMTDisabled.java
+sun/java2d/OpenGL/GradientPaints.java
